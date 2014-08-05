@@ -3,7 +3,6 @@
 Badge ideas for inthebadge.com
 
 ## "Validation"
-
 * Uses HTML
 * Uses CSS
 * Uses JS
@@ -11,8 +10,8 @@ Badge ideas for inthebadge.com
 
 
 ## Built By
-* Built by hipsters
-* Codebabes
+* Built by Hipsters
+* Built by Codebabes
 
 ## Built With
 * Love
