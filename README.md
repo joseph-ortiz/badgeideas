@@ -7,6 +7,7 @@ Badge ideas for inthebadge.com
 * Uses CSS
 * Uses JS
 * Uses Git
+* Uses Badges
 
 ## Built By
 * Built by Hipsters
@@ -28,6 +29,6 @@ Badge ideas for inthebadge.com
 ## Reading Level
 * 6th grade
 
-# Does Not Contain
+## Does Not Contain
 * MSG
 * Tree Nuts
