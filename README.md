@@ -3,12 +3,10 @@
 Badge ideas for inthebadge.com
 
 ## "Validation"
-
 * Uses HTML
 * Uses CSS
 * Uses JS
 * Uses Git
-
 
 ## Built By
 * Built by hipsters
@@ -21,7 +19,7 @@ Badge ideas for inthebadge.com
 
 ## Works with
 * Betamax
-* IE 2.0
+* IE 6
 * Opera 4
 * Blackberry
-* All boost mobile phones
+* Boost Mobile Phones
