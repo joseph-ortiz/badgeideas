@@ -51,6 +51,8 @@ Badge ideas for inthebadge.com
 
 ## Powered by
 * Netflix
+* Comcast
+* The Watergate
 * Westgate Elementary School
 * Republic of Georgia
 * Case Western Reserve
