@@ -26,6 +26,8 @@ Badge ideas for inthebadge.com
 * Opera 4
 * Blackberry
 * Boost Mobile Phones
+* Club Penguin
+* Emacs
 
 ## GIFs
 * Contains cat gifs
