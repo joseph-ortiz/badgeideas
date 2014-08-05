@@ -8,3 +8,13 @@ Badge ideas for inthebadge.com
 * Uses CSS
 * Uses JS
 * Uses Git
+
+
+## Built By
+* Built by hipsters
+* Codebabes
+
+## Built With
+* Love
+* Corruption
+* Chaos
