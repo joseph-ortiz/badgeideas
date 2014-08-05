@@ -32,3 +32,12 @@ Badge ideas for inthebadge.com
 ## Does Not Contain
 * MSG
 * Tree Nuts
+* Gluten
+
+## Ages
+* 12 and up
+* 20 - 30
+
+## As seen on TV
+
+## 
