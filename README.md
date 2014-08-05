@@ -17,7 +17,7 @@ Badge ideas for inthebadge.com
 * Corruption
 * Chaos
 
-## Works with
+## Compatibility
 * Betamax
 * IE 6
 * Opera 4
