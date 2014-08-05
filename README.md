@@ -24,3 +24,10 @@ Badge ideas for inthebadge.com
 * Opera 4
 * Blackberry
 * Boost Mobile Phones
+
+## Reading Level
+* 6th grade
+
+# Does Not Contain
+* MSG
+* Tree Nuts
