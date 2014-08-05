@@ -40,4 +40,7 @@ Badge ideas for inthebadge.com
 
 ## As seen on TV
 
-## 
+## Safe for Work
+* SFW
+* Risque
+* Indecent
