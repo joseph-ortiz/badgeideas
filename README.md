@@ -1,6 +1,6 @@
 # Badge-Ideas
 
-Badge ideas for forthebadge.com
+Badge ideas for [forthebadge.com](http://www.forthebadge.com)
 
 ## "Validation"
 * Uses HTML
