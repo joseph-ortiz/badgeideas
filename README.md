@@ -1,6 +1,6 @@
 # Badge-Ideas
 
-Badge ideas for [forthebadge.com](http://www.forthebadge.com)
+Badge ideas for inthebadge.com
 
 ## "Validation"
 * Uses HTML
@@ -48,3 +48,8 @@ Badge ideas for [forthebadge.com](http://www.forthebadge.com)
 * SFW
 * Risque
 * Indecent
+
+## Powered by
+* Netflix
+* Westgate Elementary
+* Indonesia
