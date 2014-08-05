@@ -51,5 +51,6 @@ Badge ideas for inthebadge.com
 
 ## Powered by
 * Netflix
-* Westgate Elementary
-* Indonesia
+* Westgate Elementary School
+* Republic of Georgia
+* Case Western Reserve
