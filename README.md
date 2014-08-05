@@ -9,8 +9,8 @@ Badge ideas for inthebadge.com
 * Uses Git
 
 ## Built By
-* Built by hipsters
-* Codebabes
+* Built by Hipsters
+* Built by Code Babes
 
 ## Built With
 * Love
