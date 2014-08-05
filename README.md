@@ -16,6 +16,7 @@ Badge ideas for inthebadge.com
 * Love
 * Corruption
 * Chaos
+* Swag
 
 ## Compatibility
 * Betamax
