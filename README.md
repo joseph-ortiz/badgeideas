@@ -3,6 +3,7 @@
 Badge ideas for inthebadge.com
 
 ## "Validation"
+
 * Uses HTML
 * Uses CSS
 * Uses JS
@@ -10,10 +11,17 @@ Badge ideas for inthebadge.com
 
 
 ## Built By
-* Built by Hipsters
-* Built by Codebabes
+* Built by hipsters
+* Codebabes
 
 ## Built With
 * Love
 * Corruption
 * Chaos
+
+## Works with
+* Betamax
+* IE 2.0
+* Opera 4
+* Blackberry
+* All boost mobile phones
