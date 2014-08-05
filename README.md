@@ -26,6 +26,9 @@ Badge ideas for inthebadge.com
 * Blackberry
 * Boost Mobile Phones
 
+## GIFs
+* Contains cat gifs
+
 ## Reading Level
 * 6th grade
 
