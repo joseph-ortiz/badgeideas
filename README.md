@@ -10,6 +10,7 @@ Badge ideas for inthebadge.com
 * Uses Badges
 
 ## Built By
+* Built by Developers
 * Built by Hipsters
 * Built by Code Babes
 
