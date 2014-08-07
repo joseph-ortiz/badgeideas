@@ -59,3 +59,6 @@ Badge ideas for inthebadge.com
 * Westgate Elementary School
 * Republic of Georgia
 * Case Western Reserve
+
+## Certified by
+* Dr. Steve Brule
