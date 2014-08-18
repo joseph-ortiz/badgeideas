@@ -62,3 +62,7 @@ Badge ideas for inthebadge.com
 
 ## Certified by
 * Dr. Steve Brule
+
+## Fo'
+* Fo' Sho
+* Fo' Shizzle
