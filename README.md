@@ -2,7 +2,7 @@
 
 Badge ideas for inthebadge.com
 
-## "Validation"
+## Validation
 * Uses HTML
 * Uses CSS
 * Uses JS
@@ -29,8 +29,8 @@ Badge ideas for inthebadge.com
 * Club Penguin
 * Emacs
 
-## GIFs
-* Contains cat gifs
+## Contains
+* cat gifs
 
 ## Reading Level
 * 6th grade
@@ -64,5 +64,5 @@ Badge ideas for inthebadge.com
 * Dr. Steve Brule
 
 ## Fo'
-* Fo' Sho
-* Fo' Shizzle
+* Sho
+* Shizzle
