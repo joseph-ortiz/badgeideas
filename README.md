@@ -2,6 +2,10 @@
 
 Badge ideas for inthebadge.com
 
+## Contributing
+Just edit the readme and submit a pull request.
+
+
 ## Validation
 * Uses HTML
 * Uses CSS
