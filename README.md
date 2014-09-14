@@ -17,6 +17,7 @@ Just edit the readme and submit a pull request.
 * Developers
 * Hipsters
 * Code Babes
+* Crips
 
 ## Built With
 * Love
