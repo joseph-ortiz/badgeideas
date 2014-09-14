@@ -64,6 +64,10 @@ Just edit the readme and submit a pull request.
 * Westgate Elementary School
 * Republic of Georgia
 * Case Western Reserve
+ 
+## Sponsored by
+* Water - stay hydrated
+* Oxygen
 
 ## Certified by
 * Dr. Steve Brule
